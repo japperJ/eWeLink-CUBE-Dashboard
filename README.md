@@ -37,8 +37,9 @@ A self-hosted web dashboard for the [eWeLink CUBE](https://ewelink.cc/) smart-ho
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/<your-user>/ewelink-cube-dashboard.git
-cd ewelink-cube-dashboard
+git clone https://github.com/japperJ/eWeLink-CUBE-Dashboard.git
+
+cd eWeLink-CUBE-Dashboard
 npm install
 ```
 
