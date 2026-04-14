@@ -38,4 +38,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# history database
+history.db
+history.db-wal
+history.db-shm
 next-env.d.ts

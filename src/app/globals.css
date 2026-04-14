@@ -127,4 +127,17 @@
   html {
     @apply font-sans;
   }
+  /* Prevent 300ms tap delay and double-tap zoom on touch devices */
+  button,
+  a,
+  [role="button"] {
+    touch-action: manipulation;
+  }
+  /* Better touch targets */
+  @media (pointer: coarse) {
+    select,
+    input {
+      font-size: 16px; /* prevents iOS zoom on focus */
+    }
+  }
 }
