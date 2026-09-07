@@ -2,6 +2,8 @@
 
 A self-hosted web dashboard for the [eWeLink CUBE](https://ewelink.cc/) smart-home gateway. Monitor sensors, control switches and lights, and track historical data — all from a single responsive UI.
 
+if you like to have a MCP server that can connect to a eWelink sonoff Cube: https://github.com/japperJ/EwlinkMCP
+
 ![Dashboard – dark mode](public/screenshots/dashboard-dark.png)
 
 ![History – light mode](public/screenshots/history-light.png)
